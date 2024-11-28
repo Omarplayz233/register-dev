@@ -1,0 +1,13 @@
+{
+  "domain": "is-cool.dev",
+  "subdomain": "project-jam",
+  "proxied": false,
+  "description": "Project Jam is an open source project, made with love for developers.",
+  "owner": {
+    "contact": "mrbouiri@gmail.com",
+    "repo": "https://github.com/Omarplayz233/register"
+  },
+  "record": {
+    "NS": ["ns1.vercel-dns.com", "ns2.vercel-dns.com"]
+  }
+}
